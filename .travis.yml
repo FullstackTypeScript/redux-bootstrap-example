@@ -1,9 +1,13 @@
 sudo: required
+
+language: node_js
+
 services:
   - docker
-language: node_js
+
 node_js:
-- stable
+  - stable
+
 after_success:
   - if [ "$TRAVIS_BRANCH" == "master" && "$TRAVIS_EVENT_TYPE" == "push" ]; then
     npm run release && docker build -t redux-bootstrap/example .;
