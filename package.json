@@ -40,7 +40,7 @@
     "@types/history": "^2.0.41",
     "@types/lodash": "^4.14.43",
     "@types/mocha": "^2.2.33",
-    "@types/node": "^6.0.52",
+    "@types/node": "^7.0.0",
     "@types/node-sass": "^3.10.32",
     "@types/react": "^0.14.55",
     "@types/react-dom": "^0.14.19",
