@@ -42,7 +42,7 @@
     "@types/mocha": "^2.2.33",
     "@types/node": "^6.0.52",
     "@types/node-sass": "^3.10.32",
-    "@types/react": "^0.14.55",
+    "@types/react": "^15.0.0",
     "@types/react-dom": "^0.14.19",
     "@types/react-redux": "^4.4.35",
     "@types/react-router": "^2.0.41",
