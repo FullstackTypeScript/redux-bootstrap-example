@@ -29,7 +29,7 @@
   "dependencies": {
     "express": "^4.14.0",
     "lodash": "^4.17.2",
-    "redux-bootstrap": "^1.0.3",
+    "redux-bootstrap": "^1.1.0",
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.0.1",
     "node-sass": "^4.0.0"
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/chai": "^3.4.34",
     "@types/express": "^4.0.34",
-    "@types/history": "^4.5.0",
+    "@types/history": "^2.0.45",
     "@types/lodash": "^4.14.43",
     "@types/mocha": "^2.2.33",
     "@types/node": "^7.0.0",
@@ -47,12 +47,8 @@
     "@types/react-redux": "^4.4.35",
     "@types/react-router": "^3.0.0",
     "@types/react-router-redux": "^4.0.35",
-    "@types/redux-devtools": "^3.0.36",
-    "@types/redux-devtools-dock-monitor": "^1.1.29",
-    "@types/redux-devtools-log-monitor": "^1.0.29",
     "@types/redux-immutable": "^3.0.31",
     "@types/redux-logger": "^2.6.32",
-    "@types/redux-thunk": "^2.1.32",
     "@types/sinon": "^1.16.32",
     "awesome-typescript-loader": "^3.0.0-beta.13",
     "chai": "^3.5.0",
