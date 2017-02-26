@@ -50,7 +50,7 @@
     "@types/redux-immutable": "^3.0.31",
     "@types/redux-logger": "^2.6.32",
     "@types/sinon": "^1.16.32",
-    "awesome-typescript-loader": "^3.0.7",
+    "awesome-typescript-loader": "^3.0.8",
     "chai": "^3.5.0",
     "css-loader": "^0.26.1",
     "html5-history-api": "^4.2.7",
