@@ -1,7 +1,6 @@
 import thunk from "redux-thunk";
 import { bootstrap } from "redux-bootstrap";
-// import createLogger from "redux-logger";
-const createLogger = require('redux-logger')
+import { createLogger } from "redux-logger";
 import { throttle } from "lodash";
 import routes from "./config/routes";
 import reposReducer from "./reducers/repos_reducer";
