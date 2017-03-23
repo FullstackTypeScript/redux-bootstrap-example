@@ -1,6 +1,6 @@
 {
   "name": "redux-bootstrap-example",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "redux-bootstrap example",
   "main": "index.js",
   "scripts": {
